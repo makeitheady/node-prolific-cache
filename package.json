@@ -1,0 +1,17 @@
+{
+  "name": "prolific-cache",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+    "should": "~1.2.2",
+    "mocha": "~1.12.1"
+  }
+}
