@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@bitbucket.org:prolificinteractive/node-prolific-cache.git"
+  },
   "author": "",
   "license": "BSD",
   "dependencies": {
